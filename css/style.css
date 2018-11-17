@@ -1,8 +1,8 @@
 @import url(http://fonts.googleapis.com/css?family=Elsie+Swash+Caps:400,900);
 @import url(http://fonts.googleapis.com/css?family=Clicker+Script);
 
-/* This 
-is 
+/* This
+is
 a comment! */
 
 /* CSS Syntax:
@@ -94,14 +94,14 @@ img, video, audio {
  	background: #ccc;
  	float: left;
  	width: 32%;
- 	
+
  }
 
  .col-2 {
  	background: #ccc;
  	float: left;
  	width: 66%;
- 	
+
  }
 
  .col-3 {
@@ -158,7 +158,7 @@ header {
 	background: #ffffff;
 
 }
-*//////// MEDIA //////// */
+/*/////// MEDIA //////// */
 
 img, video, audio {
 	max-width: 100%;
@@ -182,14 +182,14 @@ img, video, audio {
  	background: #ccc;
  	float: left;
  	width: 32%;
- 	
+
  }
 
  .col-2 {
  	background: #ccc;
  	float: left;
  	width: 66%;
- 	
+
  }
 
  .col-3 {
